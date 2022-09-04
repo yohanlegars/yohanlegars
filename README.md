@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi Folks 👋
 
 💻 I’m currently learning Artificial Intelligence techniques and motion planning for robotics.
 
