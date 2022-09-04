@@ -6,7 +6,7 @@
 
 🦾 When I find some time, I like to build some mechatronics projects with arduino, raspberry pi or jeston nano.
 
-💿 I am interested to find ways to scale down heavy deep learning models and run them on low RAM microcontrollers.
+💿 I am interested to find ways to scale down heavy deep learning models and run them on microcontrollers with little RAM.
 
 📫 You can reach me on [Email](mailto:yohan.legars@gmail.com), [Linkdin](https://www.linkedin.com/in/yohan-le-gars-3264731b4/) and [Twitter](https://twitter.com/YohanLeGars)
 
