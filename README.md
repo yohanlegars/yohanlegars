@@ -1,6 +1,6 @@
 ### Hi Folks 👋
 
-💻 I’m currently learning Artificial Intelligence techniques and motion planning for robotics.
+💻 I’m currently learning probabilistic models and motion planning for robotics.
 
 🔭 I’m looking for an internship in the field of robotics and/or AI. 
 
