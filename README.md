@@ -1,6 +1,6 @@
 ### Hi Folks 👋
 
-💻 I’m currently learning 3D mapping inside simulated robotics environments (isaac sim).
+💻 I’m currently learning 3D mapping and motion planning inside simulated environments.
 
 💿 I am interested to find ways to scale down heavy deep learning models and run them on microcontrollers with little RAM.
 
