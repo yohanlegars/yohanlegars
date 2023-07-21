@@ -1,6 +1,6 @@
 ### Hi Folks 👋
 
-💻 I like to learn things about computer, robotics and electronics.
+💻 I like to learn things about computers, robotics and electronics.
 
 💿 I am interested to find ways to scale down heavy deep learning models and run them on microcontrollers with little RAM.
 
