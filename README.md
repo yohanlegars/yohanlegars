@@ -1,6 +1,6 @@
 ### Hi Folks 👋
 
-💻 I’m currently learning 3D mapping and motion planning inside simulated environments.
+💻 I like to learn things about computer, robotics and electronics.
 
 💿 I am interested to find ways to scale down heavy deep learning models and run them on microcontrollers with little RAM.
 
